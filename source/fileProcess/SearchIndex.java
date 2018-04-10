@@ -1,6 +1,5 @@
 /*
- *By: Qikai, Chen
- *ID: 500654338
+ *By: QC
  *Last modified: 3/16/2018 
  */
 package fileProcess;
